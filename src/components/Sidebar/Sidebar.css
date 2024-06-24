@@ -45,14 +45,13 @@
   cursor: pointer;
 }
 .sidebar .recent-entry:hover {
-    background-color: #e2e6eb;
+  background-color: #e2e6eb;
 }
 .sidebar .bottom {
-  display: flex ;
+  display: flex;
   flex-direction: column;
 }
 .sidebar .bottom-item {
- padding-right: 10px;
- cursor: pointer;
+  padding-right: 10px;
+  cursor: pointer;
 }
-
